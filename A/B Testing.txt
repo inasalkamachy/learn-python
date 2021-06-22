@@ -1,1 +1,4 @@
 https://www.codecademy.com/paths/data-analyst/tracks/dscp-data-manipulation-with-pandas/modules/dscp-aggregates-in-pandas/projects/pandas-shoefly-ab-test
+
+
+https://www.firmai.org/documents/A-B%20Testing/
