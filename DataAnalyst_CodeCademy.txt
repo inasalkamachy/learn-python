@@ -1,0 +1,787 @@
+1. Welcome to the Data Analyst Career Path
+Start off with an overview of what you’ll cover in the Data Analyst Career Path, projects you’ll build, and resources you’ll benefit from.
+
+Info
+Welcome to the Data Analyst Career Path
+Info
+Helpful Resources
+Info
+Community Resources
+2. Getting Started with Data Analytics
+Get a preview of what you’ll cover in this unit, as well as resources to help you along the way!
+
+Info
+Introduction: Getting Started with Data Analytics
+Start with a quick introduction to Data Analytics: what it is, how it works, and how it drives data-driven decision making.
+
+Lesson
+Introduction to Data Analytics
+Lesson
+The Data Analyst Process
+Article
+Data Analytics Applications
+Take a look at all you’ve learned so far about Data Analytics and get resources to take you further.
+
+Info
+Review: Getting Started with Data Analytics
+3. Python Fundamentals
+Learn how much you’ll cover in Python Fundamentals.
+
+Info
+Introduction: Python Fundamentals
+Learn about the syntax of the Python language! Go over commands that store variables, print messages, and perform mathematical operations.
+
+Cheatsheet
+
+Lesson
+Hello World
+Quiz
+Hello World
+Docs
+Built-in Types | Python
+Project
+Python Syntax: Medical Insurance Project
+Functions are important tools for abstraction in your code. Learn how to create and use them in Python!
+
+Cheatsheet
+
+Lesson
+Introduction to Functions
+Quiz
+Introduction to Functions
+Article
+Python Code Challenges: Functions
+Article
+Python Code Challenges: Functions (Advanced)
+Project
+Python Functions: Medical Insurance Project
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Pair Programming: Python Syntax
+Learn how to build control flow into your python code by including if, else, and elif statements as well as try and except statements.
+
+Cheatsheet
+
+Lesson
+Control Flow
+Docs
+Control Flow Tools | Python
+Quiz
+Control Flow
+Article
+Python Code Challenges: Control Flow
+Article
+Python Code Challenges: Control Flow (Advanced)
+Project
+Python Control Flow: Medical Insurance Project
+Move off-platform with the command line, Python 3, Jupyter Notebook and iPython, plus git and GitHub!
+
+Article
+Command Line Interface Setup
+Article
+Introducing Jupyter Notebook
+Article
+Setting up Jupyter Notebook
+Article
+Getting Started with Jupyter
+Article
+Getting More out of Jupyter Notebook
+Docs
+Jupyter Notebook
+Article
+Getting Started with Git and GitHub Desktop
+Learn about lists, a data structure in Python used to store ordered groups of data.
+
+Cheatsheet
+
+Lesson
+Introduction to Lists
+Article
+Combining Lists: The Zip Function
+Docs
+Sequence Types | Python
+Quiz
+Introduction to Lists
+Project
+Python Lists: Medical Insurance Project
+Lesson
+Working with Lists in Python
+Quiz
+Working with Lists in Python
+Article
+Python Code Challenges: Lists
+Article
+Python Code Challenges: Lists (Advanced)
+Project
+Working with Python Lists: Medical Insurance Project
+Video
+Learn Python: Tuples
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Code Review: Frida Kahlo Retrospective
+Investigate Frida Kahlo’s work in the project using Python lists.
+
+Info
+Frida Kahlo Retrospective
+Loops let you repeat Python code over and over. You’ll learn how to read and write loops and list comprehensions to solve your own problems.
+
+Cheatsheet
+
+Lesson
+Loops
+Docs
+Python Looping Techniques | Python
+Quiz
+Loops
+Article
+List Comprehensions
+Lesson
+List Comprehension - Code Challenge
+Project
+Python Loops: Medical Insurance Project
+Learn all about the Python string object and how to automatically create, rearrange, reassign, disassemble, and reassemble blocks of text!
+
+Cheatsheet
+
+Lesson
+Introduction to Strings
+Quiz
+Introduction to Strings
+Lesson
+String Methods
+Docs
+Common String Operations | Python
+Quiz
+String Methods
+Lesson
+Code Challenge: String Methods
+Project
+Python Strings: Medical Insurance Project
+Learn all about the Python dictionary structure and how to create and use key-value pairs in your code.
+
+Cheatsheet
+
+Lesson
+Creating Dictionaries
+Docs
+Dictionaries | Python
+Quiz
+Creating Dictionaries
+Lesson
+Using Dictionaries
+Quiz
+Using Dictionaries
+Project
+Python Dictionaries: Medical Insurance Project
+Organize and manipulate data while you practice using Python dictionaries.
+
+Project
+Hurricane Analysis
+Learn how to create your own data types in Python with classes!
+
+Cheatsheet
+
+Lesson
+Introduction to Classes
+Quiz
+Introduction to Classes
+Project
+Python Classes: Medical Insurance Project
+Find out how you can import and use Python modules to improve your code!
+
+Cheatsheet
+
+Lesson
+Modules in Python
+Docs
+Modules | Python
+Video
+Learn Python: Datetimes
+Video
+Learn Python: Pipenv
+Learn how to work with files in an automated way. Investigate the properties of text, CSV, and JSON files by reading and writing to them.
+
+Cheatsheet
+
+Lesson
+Learn Python: Files
+Docs
+Reading and Writing Files | Python
+Quiz
+Python Files
+Project
+Hacking The Fender
+In this project, you’ll combine your knowledge of Python to help a mad scientist perform some calculations on his data.
+
+Info
+Reggie's Linear Regression
+Review everything you’ve learned in Python Fundamentals.
+
+Info
+Review: Python Fundamentals
+4. Python Portfolio Project
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Group Project: U.S. Medical Insurance Costs
+Use your understanding of Python syntax to sort and analyze data about U.S. medical insurance costs!
+
+Portfolio
+U.S. Medical Insurance Costs
+5. Data Acquisition
+Find out what you’ll learn in Data Acquisition.
+
+Info
+Introduction: Data Acquisition
+Learn about various channels to acquire data, including public and private datasets, web scraping, APIs, BI tools, and manual acquisition.
+
+Article
+Intro to Data Acquisition
+Article
+How to build your own dataset for Data Science projects
+Dive into SQL and relational databases with the most commonly used commands to query a table.
+
+Cheatsheet
+
+Article
+Relational Databases for Data Science/Analysis
+Lesson
+Manipulation
+Quiz
+Manipulation
+Lesson
+Queries
+Article
+SQL Commands
+Quiz
+Queries
+Lesson
+Queries Challenge
+Project
+New York Restaurants
+Article
+Python with Databases
+Article
+Thinking in SQL vs Thinking in Python
+Tutorial
+Programming with Databases - Python
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Code Review: SQL Challenge Projects
+Use your SQL knowledge to complete real-world projects.
+
+Project
+RPA Fraud Detection
+Project
+RPA Customer Segmentation
+Project
+Davie's Burgers Subway Ad
+85%
+Learn about SQL aggregate functions that perform calculations that summarize multiple rows of data.
+
+Cheatsheet
+
+Lesson
+Aggregate Functions
+Quiz
+Aggregate Functions
+Lesson
+Aggregate Functions Challenge
+Project
+Trends in Startups
+Project
+How to Hack Hacker News
+Project
+The Metropolitan Museum of Art
+Project
+Cryptocurrency Exchange
+When life gives you multiple tables, SQL gives you joins.
+
+Cheatsheet
+
+Lesson
+Multiple Tables
+Quiz
+Multiple Tables
+Lesson
+Multiple Tables Challenge
+Project
+Lyft Trip Data
+Learn how to take data that’s displayed on websites and put it into Python using the Beautiful Soup library!
+
+Cheatsheet
+
+Lesson
+Web Scraping with Beautiful Soup
+Quiz
+Beautiful Soup
+Project
+Chocolate Scraping with Beautiful Soup
+Review all you’ve learned about Data Acquisition!
+
+Info
+Review: Data Acquisition
+6. Data Manipulation with Pandas
+Check out everything you’ll cover in Data Manipulation with Pandas!
+
+Info
+Introduction: Data Manipulation with Pandas
+Define anonymous functions that you can use readily with pandas.
+
+Article
+Lambda Functions
+Lesson
+Lambda Function Code Challenge
+Use Pandas and NumPy to create and manipulate tables so that you can process your data faster and get your insights sooner.
+
+Cheatsheet
+
+Article
+Introduction to NumPy and Pandas
+Docs
+NumPy
+Lesson
+Creating, Loading, and Selecting Data with Pandas
+Docs
+Pandas
+Quiz
+Creating, Loading, and Selecting Data with Pandas
+Lesson
+Modifying DataFrames
+Quiz
+Modifying DataFrames
+Project
+Petal Power Inventory
+Learn the basics of aggregate functions in pandas, which let us calculate quantities that describe groups of data.
+
+Cheatsheet
+
+Lesson
+Aggregates in Pandas
+Docs
+Pandas Dataframe.Groupby | Python
+Docs
+Reshaping and Pivot Tables | Pandas
+Quiz
+Aggregates in Pandas
+Project
+A/B Testing for ShoeFly.com
+Learn how to combine information from multiple DataFrames.
+
+Lesson
+Working with Multiple DataFrames
+Docs
+Dataframe Merge | Pandas
+Quiz
+Learn Pandas: Multiple Tables Quiz
+Project
+Page Visits Funnel
+Resume
+Put your new data manipulation skills to the test with a Jeopardy project!
+
+Project
+This Is Jeopardy!
+Wow, you’ve learned a lot already about manipulating and analyzing data with pandas!
+
+Info
+Review: Data Manipulation with Pandas
+7. Data Wrangling and Tidying
+Discover what you’ll learn in Data Wrangling and Tidying.
+
+Info
+Introduction: Data Wrangling and Tidying
+Dip your toe into the world of data preprocessing with an introduction to data wrangling and tidying.
+
+Article
+Introduction to Data Wrangling and Tidying
+Get a taste of regular expressions (regex), a powerful search pattern language, to quickly find and select the data you’re looking for.
+
+Lesson
+Introduction to Regular Expressions
+Resource
+RegExr Regular Expression Builder
+Quiz
+Introduction to Regular Expressions
+1 lesson, 1 doc, 1 quiz, 1 project
+
+Learn about how to format and clean your data so that it is ready for analysis.
+
+Article
+Tidy Data in Python
+Article
+Pandas and Tidy Data
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Pair Programming: Data Wrangling and Tidying
+Learn the first step of exploratory data analysis: determining if your data is tidy and in the correct format.
+
+Article
+What is Exploratory Data Analysis?
+Article
+Exploratory Data Analysis: Data Formats
+You’ve learned so much about data wrangling and tidying!
+
+Info
+Review: Data Wrangling and Tidying
+8. Summary Statistics
+Find out what you’ll learn about Summary Statistics.
+
+Info
+Introduction: Summary Statistics
+25%
+1 article, 1 lesson, 1 quiz, 1 project
+
+Cheatsheet
+
+Learn about three summary statistics for central tendency: mean, median, and mode!
+
+Lesson
+Mean
+Lesson
+Median
+Lesson
+Mode
+Docs
+Statistics in NumPy
+Quiz
+Mean, Median, and Mode
+Project
+Central Tendency for Housing Data
+Learn how to calculate and interpret variance and standard deviation!
+
+Lesson
+Variance
+Lesson
+Standard Deviation
+Quiz
+Variance and Standard Deviation
+Project
+Variance in Weather
+Learn how to create, interpret, and describe a histogram!
+
+Lesson
+Histograms
+Quiz
+Histograms
+Project
+Traveling to Acadia
+Lesson
+Describe a Histogram
+Quiz
+Describe a Histogram
+Project
+Describe Exam Grade Distributions
+Learn to calculate quartiles, quantiles, and the inter-quartile range (IQR) for a variable and visualize them with a boxplot!
+
+Lesson
+Quartiles
+Lesson
+Quantiles
+Lesson
+Interquartile Range
+Quiz
+Quantiles, Quartiles, and IQR
+Project
+Life Expectancy By Country
+Lesson
+Boxplots
+Quiz
+Boxplots
+Project
+Healthcare in Different States
+Learn how to summarize categorical variables in Python using numerical summary statistics.
+
+Lesson
+Summary Statistics for Categorical Variables
+Quiz
+Summarizing Categorical Data
+Project
+Summarizing Automobile Evaluation Data
+Learn how to visualize categorical data with bar charts and pie charts.
+
+Lesson
+Bar Charts and Pie Charts
+Project
+Exploring Mushrooms
+Quiz
+Bar Charts and Pie Charts
+Learn how to transform your data to get it ready for efficient analysis, and practice on real-world business data!
+
+Article
+Data Centering and Scaling
+Article
+Discretizing Numerical Data and Collapsing Categories
+Article
+Advanced Data Transformations
+Project
+Startup Transformation
+Learn how to investigate whether there is an association between two variables.
+
+Lesson
+Associations: Quantitative and Categorical Variables
+Lesson
+Associations: Two Quantitative Variables
+Lesson
+Associations: Two Categorical Variables
+Quiz
+Associations between Variables
+Project
+NBA Trends
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Pair Programming: Summary Statistics
+This article walks you through the process of EDA using summary statistics.
+
+Article
+Exploratory Data Analysis: Summary Statistics
+Take a look at all you’ve learned about Summary Statistics!
+
+Info
+Review: Summary Statistics
+9. Hypothesis Testing
+Find out what you’ll learn in hypothesis testing!
+
+Info
+Introduction: Hypothesis Testing
+Learn about hypothesis testing and implement binomial and one-sample t-tests in Python.
+
+Article
+The Central Limit Theorem
+Article
+Introduction to Hypothesis Testing (Simulating a One-Sample T-Test)
+Lesson
+One-Sample T-Tests in SciPy
+Lesson
+Simulating a Binomial Test
+Docs
+Scipy Statistical Functions | Python
+Lesson
+Significance Thresholds
+Quiz
+Hypothesis testing for a Sample Statistic
+Project
+Heart Disease Research Part I
+Learn about hypothesis tests that can be used to evaluate whether there is an association between two variables.
+
+Lesson
+Hypothesis Testing: Associations
+Quiz
+Hypothesis Testing: Associations
+Project
+Heart Disease Research Part II
+Learn to design an experiment to make a decision using a hypothesis test.
+
+Article
+How to Choose a Hypothesis Test
+Lesson
+A/B Testing: Sample Size Calculators
+Lesson
+Sample Size Determination with Simulation
+Quiz
+Sample Size Determination
+Project
+A/B Testing at Nosh Mish Mosh
+Practice your hypothesis testing skills with some additional projects!
+
+Project
+Familiar: A Study In Data Analysis
+Project
+FetchMaker
+Project
+Analyzing Farmburg's A/B Test
+Take a look at all you’ve learned about Hypothesis Testing!
+
+Info
+Review: Hypothesis Testing
+10. Data Visualization
+Visualize your upcoming data visualization learning with EDA, Matplotlib, and seaborn…
+
+Info
+Introduction: Data Visualization
+Learn about exploratory data analysis (EDA) and how you can integrate it into your data analysis workflow.
+
+Article
+What is Exploratory Data Analysis?
+Master a commonly used Python graphing module, Matplotlib. Soon, you will be producing high-quality plots to visualize your data.
+
+Lesson
+Line Graphs in Matplotlib
+Docs
+Matplotlib | Python
+Info
+Matplotlib Resources
+Quiz
+Line Graphs Concepts
+Project
+Sublime Limes' Line Graphs
+Lesson
+Different Plot Types
+Quiz
+Plot Types
+Article
+How to Select a Meaningful Visualization
+Lesson
+Recreate Graphs using Matplotlib!
+Resource
+The Data Visualization Catalogue
+Put your Matplotlib data visualization skills to the test with these challenge projects!
+
+Info
+Constellations
+Lesson
+Project: Board Slides for FoodWheel
+Project
+Roller Coaster
+Use seaborn, a Python data visualization library that provides simple code to create elegant visualizations.
+
+Lesson
+Learn Seaborn Introduction
+Lesson
+Learn Seaborn: Distributions
+Docs
+Seaborn API Reference
+Quiz
+Introduction To Seaborn
+Article
+Seaborn Styling, Part 1: Figure Style and Scale
+Article
+Seaborn Styling, Part 2: Color
+Project
+Visualizing World Cup Data With Seaborn
+Use seaborn to visualize and identify insights using real-world data.
+
+Info
+Visualizing Kiva Data With Seaborn
+Info
+Capstone Project: Netflix Data
+Gain a brief overview of what to consider when making data visualizations.
+
+Article
+Data Visualization Best Practices
+Take a look at all you’ve learned about data visualization.
+
+Info
+Review: Data Visualization
+11. Data Visualization Portfolio Project
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Group Project: Life Expectancy and GDP
+Use your understanding of data visualization to analyze and plot data about GDP and life expectancy.
+
+Portfolio
+Life Expectancy and GDP
+12. Communicating Data Analysis Findings
+See what’s covered in Communicating Data Analysis Findings.
+
+Info
+Introduction: Communicating Data Analysis Findings
+Communication is an important part of your work as a data analyst.
+
+Article
+Communicating Data Analysis Findings
+Article
+Structure of a Data Analysis Report
+Article
+Audience Analysis: Just Who Are These Guys?
+Article
+How to Write Data Analysis reports. Lesson -2 know your audience
+Review what you have learned in Communicating Data Analysis Findings.
+
+Info
+Review: Communicating Data Analysis Findings
+13. Data Analysis Portfolio Project
+Use your knowledge of data analysis to interpret data about endangered animals for the National Park Service.
+
+Portfolio
+Biodiversity in National Parks
+14. SQL for Interview Prep
+See what’s covered in SQL for Interview Prep.
+
+Info
+Introduction: SQL for Interview Prep
+Use a window function to perform a calculation across a set of table rows that are somehow related to the current row!
+
+Lesson
+Window Functions
+Quiz
+Window Functions
+Lesson
+Math and Date Functions
+Project
+Climate Change
+You can learn a lot on your own, but you can learn even more when you collaborate with others!
+
+Info
+Pair Programming: SQL Interview Prep
+Complete these code challenges to prepare for the interview questions focused on SQL.
+
+Lesson
+Interview Prep Problems
+Article
+Common SQL Interview Questions
+Review what’s covered in SQL for Interview Prep.
+
+Info
+Review: SQL for Interview Prep
+15. Analyze Real Data with SQL
+See what you will learn in Analyze Real Data with SQL!
+
+Info
+Introduction: Analyze Real Data with SQL
+Analyze Warby Parker’s marketing funnel from Quiz → Home Try-On → Purchase in order to calculate conversion rates.
+
+Lesson
+Usage Funnels
+Info
+Project Assignment: Usage Funnels
+Project
+Usage Funnels with Warby Parker
+Analyze churn for two groups of Codeflix users and recommend which segment represents a better long-term user base.
+
+Lesson
+Calculating Churn
+Info
+Project Assignment: User Churn
+Project
+Calculating Churn Rates
+Help CoolTShirts, an innovative apparel shop, improve their marketing campaigns.
+
+Lesson
+First- and Last-Touch Attribution
+Info
+Project Assignment: Marketing Attribution
+Project
+Attribution Queries
+Info
+Peer Project Feedback
+33%
+Analyze Twitch data with SQL and Matplotlib.
+
+Article
+Gaming Trends with Twitch
+Project
+Gaming Data with Twitch
+Project
+Visualize Twitch Data with Matplotlib
+Review what you have learned in Analyze Real Data with SQL!
+
+Info
+Review: Analyze Real Data with SQL
+16. Data Analyst Final Portfolio Project
+Show off your knowledge of data analytics by developing your final portfolio project on a topic of your choice.
+
+Portfolio
+Data Analyst Final Portfolio
+17. Next Steps
+Congratulations on finishing the Data Analyst Career Path! What will you do next?
+
+Info
+Path Review
+Info
+Next Steps
